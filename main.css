@@ -15,13 +15,30 @@
     text-decoration: underline;
 }
 
-.services {
-    text-align: center; 
-    font-weight: bold;
+.p {
+    text-align: center;
+    font-size: 21px;
+     
 }
 
-.bar {
-    text-align: center; 
+.pp {
+    font-size: 17px;
+}
+
+.pop {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+}
+
+.pop2 {
+    flex: 1;
+    background: rgb(61, 88, 124);
+    color:rgb(188, 191, 192);
+    padding: 1rem;
+    margin: 2px;
+    text-align: center;
+
 }
 
 .title {
@@ -39,6 +56,11 @@
 .link {
     text-align: center;
     background-color: rgb(158, 171, 231);
-    color: rgb(0, 0, 0);
+    color: rgb(8, 8, 8);
+    text-decoration: wavy;
+}
+
+.bar {
+    text-align: center;
 }
 
